@@ -18,4 +18,4 @@ alias cdmtp=". $cdmtp_script_path"
 
 
 
-http://storeous.com
+https://storeous.com
