@@ -16,3 +16,6 @@ cdmtp_script_path='Give the path to cdmtp.sh here'
 
 alias cdmtp=". $cdmtp_script_path"
 
+
+
+http://storeous.com
