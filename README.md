@@ -20,3 +20,4 @@ alias cdmtp=". $cdmtp_script_path"
 
 https://storeous.com
 http://www.google.com
+http://192.168.2.48:8080
